@@ -8,7 +8,7 @@ const Card = (props) => {
             <div className="text-center shadow-2xl p-8 rounded-xl my-8 relative transition-all h-full w-full duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
                 {
                     media && (
-                        <Image className="mx-auto" src={media} width={80} height={80} />
+                        <Image className="mx-auto" src={media} width={80} height={80} alt={""} />
                     )
                 }
                 <h1 className="text-lg font-medium pt-2 pb-2 font-latoBlack">

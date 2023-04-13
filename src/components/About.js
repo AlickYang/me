@@ -7,7 +7,7 @@ const Body = (props) => {
                 Hi <span className="animation-wave">✋</span>
             </h2>
             <p className="text-lg py-5 leading-8 text md:text-md max-w-xl mx-auto">
-                I'm Alick, a Software Engineer based in Sydney, Australia and I've been in the industry since 2020 specialising in Cloud Technologies, DevOps, and Cloud Native Development
+                I&apos;m Alick, a Software Engineer based in Sydney, Australia and I&apos;ve been in the industrysince 2020 specialising in Cloud Technologies, DevOps, and Cloud Native Development
             </p>
             <p className="text-lg py-5 leading-8 text md:text-md max-w-xl mx-auto">
                 Outside of work, you can find me taking various classes at the gym 🏋️‍♂️ 🧘, 🏊 or playing casual games of volleyball 🏐
