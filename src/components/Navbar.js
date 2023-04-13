@@ -16,7 +16,7 @@ const Navbar = (props) => {
     )
     return (
 
-        <nav className="flex flex-wrap mb-9 items-center justify-between max-w-5xl mx-auto gap-6">
+        <nav className="flex flex-wrap mb-9 items-center justify-between max-w-3xl mx-auto gap-6">
             <h1 className="text-2xl font-latoBlack py-2">Alick</h1>
             <ul className="flex items-center">
                 <li className="cursor-pointer text-2xl py-2">
