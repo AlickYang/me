@@ -15,7 +15,7 @@ export default function Home() {
   }
   return (
     <main className={`bg-slate-200 text-${darkMode ? "gray-800" : "black"} font-sans`}>
-      <section className={`${darkMode ? "bg-zinc-800" : "bg-slate-200"} min-h-screen pb-20 `}>
+      <section className={`${darkMode ? "bg-zinc-800" : "bg-slate-200"} min-h-screen pb-20 pt-5 px-10`}>
         <header className="justify-center">
           <Head>
             <title> Alick Yang </title>
