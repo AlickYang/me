@@ -1,9 +1,6 @@
-import { TbBrandGolang } from 'react-icons/tb'
-import { SiIbmcloud } from 'react-icons/si'
 import apiIcon from "../../public/api.png"
 import infraIcon from "../../public/cloud-service.png"
 import programmingIcon from "../../public/code.png"
-import toolingIcon from "../../public/tool-box.png"
 import Card from './UI/Card'
 const Skills = () => {
     return (

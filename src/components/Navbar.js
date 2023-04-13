@@ -1,6 +1,5 @@
 import React from 'react'
 import Button from './UI/Button'
-import { BsFillMoonStarsFill } from "react-icons/bs"
 import { AiFillLinkedin } from 'react-icons/ai'
 import { MdDarkMode, MdOutlineLightMode, MdOutlineEmail } from 'react-icons/md'
 
