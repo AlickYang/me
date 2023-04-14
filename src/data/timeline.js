@@ -4,14 +4,14 @@ const timeline = [
         yearStart: '2022',
         yearEnd: 'Present',
         title: "Solution Developer - IBM",
-        description: "Currently, I'm developing and implementing tooling to enhance developer productivity, maintaining Security Posture and Compliance within the internal cloud account"
+        description: "Currently, I'm developing and implementing tooling to enhance developer productivity, maintaining Security Posture and Compliance within the internal cloud account."
     },
     {
         id: "2",
         yearStart: '2020',
         yearEnd: '2022',
         title: "Cloud Engineer - IBM",
-        description: "I started my first full time role, engaging with Enterprises, ISVs, and start-ups to accelerate their cloud journey onto IBM Cloud"
+        description: "I started my first full time role, engaging with Enterprises, ISVs, and start-ups to accelerate their cloud journey onto IBM Cloud."
     },
     {
         id: "1",

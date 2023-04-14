@@ -7,10 +7,10 @@ const Body = (props) => {
                 Hi ✋
             </h2>
             <p className="text-lg py-5 leading-8 text md:text-md max-w-xl mx-auto">
-                I&apos;m Alick, a Software Engineer based in Sydney, Australia and I&apos;ve been in the industry since 2020 specialising in Cloud Technologies, DevOps, and Cloud Native Development
+                I&apos;m Alick, a Software Engineer based in Sydney, Australia. I&apos;ve been working within the industry since 2020 specialising in Cloud Technologies, DevOps, and Cloud Native Development.
             </p>
             <p className="text-lg py-5 leading-8 text md:text-md max-w-xl mx-auto">
-                Outside of work, you can find me taking various classes at the gym 🏋️‍♂️ 🧘, 🏊 or playing casual games of volleyball 🏐
+                Outside of work, you can find me taking various classes at the gym 🏋️‍♂️ 🧘, 🏊 or playing casual games of volleyball 🏐.
             </p>
             <Skills />
 
