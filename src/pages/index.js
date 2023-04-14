@@ -13,7 +13,7 @@ export default function Home() {
     setDarkMode(prevState => !prevState)
   }
   return (
-    <main className={`bg-slate-200 text-${darkMode ? "gray-800" : "black"} font-sans`}>
+    <main className={`bg-slate-200 text-${darkMode ? "white" : "black"} font-sans`}>
       <section className={`${darkMode ? "bg-zinc-800" : "bg-slate-200"} min-h-screen pb-20 pt-5 px-10`}>
         <header>
           <Head>
