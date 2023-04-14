@@ -4,7 +4,6 @@ import Navbar from '@/components/Navbar'
 import About from '@/components/About'
 import Head from "next/head"
 import Timeline from '@/components/Timeline/Timeline'
-
 const inter = Inter({ subsets: ['latin'] })
 
 
@@ -16,12 +15,12 @@ export default function Home() {
   return (
     <main className={`bg-slate-200 text-${darkMode ? "gray-800" : "black"} font-sans`}>
       <section className={`${darkMode ? "bg-zinc-800" : "bg-slate-200"} min-h-screen pb-20 pt-5 px-10`}>
-        <header className="justify-center">
+        <header>
           <Head>
             <title> Alick Yang </title>
           </Head>
-          <Navbar darkMode={darkMode} darkModeToggle={onDarkModeToggleHandler} />
         </header>
+        <Navbar darkMode={darkMode} darkModeToggle={onDarkModeToggleHandler} />
         <About />
         <Timeline />
         <div className="text-center pt-60">
