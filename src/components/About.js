@@ -4,7 +4,7 @@ const Body = (props) => {
     return (
         <div className="text-center p-10 py-10">
             <h2 className="text-5xl py-2">
-                Hi <span className="animation-wave">✋</span>
+                Hi ✋
             </h2>
             <p className="text-lg py-5 leading-8 text md:text-md max-w-xl mx-auto">
                 I&apos;m Alick, a Software Engineer based in Sydney, Australia and I&apos;ve been in the industry since 2020 specialising in Cloud Technologies, DevOps, and Cloud Native Development
